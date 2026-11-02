@@ -99,17 +99,21 @@ A rapidly expanding biochar producer.
 The latest International Biochar Initiative survey found that **Asia became the world's leading biochar-producing region**, overtaking North America. [[biochar-in...tional.org]](https://biochar-international.org/news/global-biochar-production-surges-nearly-threefold-as-industry-enters-new-era-of-scale/)[[biochartoday.com]](https://biochartoday.com/news/the-international-biochar-initiative-publishes-global-market-report-tracking-scale-and-commercial-evolution/)
 
 ---
-### If I had to pick the world's top countries today
+---
 
+### If I Had to Pick the World's Leaders Today
 
-| Area | Best Overall |
-| --- | --- |
-| Mature biogas industry | 🇩🇪 Germany |
-| Most efficient biomethane deployment | 🇩🇰 Denmark |
+| Category | Leading Country/Region |
+|-----------|-----------|
+| Most mature biogas industry | 🇩🇪 Germany |
+| Most effective biomethane deployment | 🇩🇰 Denmark |
 | Fastest biomethane growth | 🇫🇷 France |
-| Largest advanced-economy potential | 🇺🇸 United States |
-| Biggest future growth potential | 🇮🇳 India, 🇨🇳 China, 🇧🇷 Brazil |
-| Best biochar sector | 🇺🇸 United States |
-| Best forest-based biocoal/bioenergy | 🇫🇮 Finland, 🇸🇪 Sweden |
-| Fastest-growing biochar region | Asia overall [[biochar-in...tional.org]](https://biochar-international.org/news/global-biochar-production-surges-nearly-threefold-as-industry-enters-new-era-of-scale/)[[biochartoday.com]](https://biochartoday.com/news/the-international-biochar-initiative-publishes-global-market-report-tracking-scale-and-commercial-evolution/) |
-From a hydrogen-and-heavy-transport perspective, Denmark's biomethane model is especially interesting because it shows how agricultural waste can displace fossil natural gas on a national scale without needing entirely new fuel-distribution infrastructure.
+| Largest advanced-economy resource potential | 🇺🇸 United States |
+| Greatest future growth potential | 🇮🇳 India, 🇨🇳 China, 🇧🇷 Brazil |
+| Strongest commercial biochar sector | 🇺🇸 United States |
+| Leading forest-based biocoal and bioenergy sector | 🇫🇮 Finland, 🇸🇪 Sweden |
+| Fastest-growing biochar-producing region | Asia |
+
+*Source for biochar regional growth:* International Biochar Initiative and Biochar Today market reports.
+
+From a hydrogen and heavy-transport perspective, Denmark's biomethane model is especially noteworthy. It demonstrates how agricultural wastes and livestock manure can displace significant quantities of fossil natural gas using much of the existing gas-distribution infrastructure. For countries seeking rapid emissions reductions without waiting for a complete transition to hydrogen or battery-electric systems, biomethane may offer one of the most practical near-term decarbonisation pathways.
