@@ -119,4 +119,4 @@ The latest International Biochar Initiative survey found that **Asia became the 
 
 From a hydrogen and heavy-transport perspective, Denmark's biomethane model is especially noteworthy. It demonstrates how agricultural wastes and livestock manure can displace significant quantities of fossil natural gas using much of the existing gas-distribution infrastructure. For countries seeking rapid emissions reductions without waiting for a complete transition to hydrogen or battery-electric systems, biomethane may offer one of the most practical near-term decarbonisation pathways.
 ---
-![Biomethane and Biochar Energy Flow Sankey](/Designer (2).png)
+![Biomethane and Biochar Energy Flow Sankey](Designer (2).png)
