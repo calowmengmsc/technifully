@@ -101,7 +101,6 @@ A rapidly expanding biochar producer.
 The latest International Biochar Initiative survey found that **Asia became the world's leading biochar-producing region**, overtaking North America. [[biochar-in...tional.org]](https://biochar-international.org/news/global-biochar-production-surges-nearly-threefold-as-industry-enters-new-era-of-scale/)[[biochartoday.com]](https://biochartoday.com/news/the-international-biochar-initiative-publishes-global-market-report-tracking-scale-and-commercial-evolution/)
 
 ---
----
 
 ### If I Had to Pick the World's Leaders Today
 
@@ -119,3 +118,5 @@ The latest International Biochar Initiative survey found that **Asia became the 
 *Source for biochar regional growth:* International Biochar Initiative and Biochar Today market reports.
 
 From a hydrogen and heavy-transport perspective, Denmark's biomethane model is especially noteworthy. It demonstrates how agricultural wastes and livestock manure can displace significant quantities of fossil natural gas using much of the existing gas-distribution infrastructure. For countries seeking rapid emissions reductions without waiting for a complete transition to hydrogen or battery-electric systems, biomethane may offer one of the most practical near-term decarbonisation pathways.
+---
+![Biomethane and Biochar Energy Flow Sankey](/Designer (2).png)
