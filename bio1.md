@@ -1,3 +1,5 @@
+*Where in the world are the best biogas and biocoal industries?*
+
 If by **biogas** you mean anaerobic digestion and biomethane, and by **biocoal** you mean biochar, torrefied biomass, and other solid biomass fuels, then the world leaders are not necessarily the same countries.
 ### Best biogas industries
 #### 🇩🇪 Germany
